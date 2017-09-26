@@ -1,0 +1,79 @@
+MAP
+	mymap
+	4
+		LAYER
+			道路名
+			ANNOTATION
+			401
+			2
+				OBJ
+					道路1
+					1
+					260 255
+				ENDOBJ
+				OBJ
+					道路2
+					1
+					230 265
+				ENDOBJ
+		ENDLAYER
+		LAYER
+			道路
+			POLYLINE
+			201
+			2
+				OBJ
+					中山大道
+					3
+					350 350
+					420 100
+					230 230
+				ENDOBJ
+				OBJ
+					府前街
+					3
+					360 360
+					400 110
+					220 220
+				ENDOBJ
+		ENDLAYER
+		LAYER
+			火车站
+			POINT
+			101
+			2
+				OBJ
+					北京西站
+					1
+					200 230
+				ENDOBJ
+				OBJ
+					北京北站
+					1
+					300 320
+				ENDOBJ
+		ENDLAYER
+		LAYER
+			居民地
+			POLYGON
+			301
+			2
+				OBJ
+					花园
+					5
+					100 100
+					140 140
+					260 140
+					310 100
+					100 100
+				ENDOBJ
+				OBJ
+					写字楼
+					4
+					380 380
+					500 400
+					200 500
+					380 380
+				ENDOBJ
+		ENDLAYER
+ENDMAP
