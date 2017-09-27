@@ -6,6 +6,7 @@
 __author__ = 'Mappy Group'
 
 from tkinter import *
+from tkinter import filedialog
 from mapStruct import *
 from mapFile import *
 from dialog import *

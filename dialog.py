@@ -5,7 +5,7 @@
 
 __author__ = 'Mappy Group'
 
-from tkinter import *
+from tkinter import simpledialog, Checkbutton
 import tkinter.ttk as ttk
 
 class WinCreateLayer(simpledialog.Dialog):
