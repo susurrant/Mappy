@@ -1,5 +1,5 @@
 # Mappy
-A map app with Python
+A map app developed using Python
 
 Python version: 3.5</br>
 Visualization model: tkinter
